@@ -1,4 +1,4 @@
-study-payara-java2
+trial-payara-java2
 ==================
 
 ### 環境
